@@ -1,0 +1,26 @@
+Model,Sampling Technique,Accuracy
+Logistic Regression,Sampling1,0.8913043478260869
+Random Forest,Sampling1,0.967391304347826
+Decision Tree,Sampling1,0.9239130434782609
+SVM,Sampling1,0.6847826086956522
+KNN,Sampling1,0.717391304347826
+Logistic Regression,Sampling2,0.8579234972677595
+Random Forest,Sampling2,0.9890710382513661
+Decision Tree,Sampling2,0.9836065573770492
+SVM,Sampling2,0.6174863387978142
+KNN,Sampling2,0.7868852459016393
+Logistic Regression,Sampling3,0.8981818181818182
+Random Forest,Sampling3,0.9963636363636363
+Decision Tree,Sampling3,0.96
+SVM,Sampling3,0.6290909090909091
+KNN,Sampling3,0.7527272727272727
+Logistic Regression,Sampling4,0.907103825136612
+Random Forest,Sampling4,1.0
+Decision Tree,Sampling4,0.9808743169398907
+SVM,Sampling4,0.6693989071038251
+KNN,Sampling4,0.8469945355191257
+Logistic Regression,Sampling5,0.925764192139738
+Random Forest,Sampling5,1.0
+Decision Tree,Sampling5,0.9716157205240175
+SVM,Sampling5,0.6681222707423581
+KNN,Sampling5,0.8318777292576419
